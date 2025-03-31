@@ -38,4 +38,4 @@ Ensure you have the following installed:
 - It provides concise and relevant medical responses.
 
 ### Contact
-For queries or contributions, reach out via email: your-email@example.com
+For queries or contributions, reach out via email: shivambansal357@gmail.com
