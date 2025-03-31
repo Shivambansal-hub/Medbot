@@ -21,13 +21,16 @@ Ensure you have the following installed:
    ```sh
    git clone https://github.com/your-username/medical-bot.git
 2. Navigate to the project directory: 
+    ```sh
     cd medical-bot
 3. Install dependencies:
+    ```sh
     pip install -r requirements.txt
 4. Set up your API key:
 
     Create a .env file and add your Mistral API key:   
 5. Run the bot:
+    ```sh
     python app.py
 
 ### Usage
